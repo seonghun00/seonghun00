@@ -14,8 +14,8 @@
 > 🟠 **Simulation** - Gazebo, RViz, Digital Twin, Virtual Environment Testing  
 
 ### 🚀 Goals & Projects
-> ⚫ **Self-Driving Specialist Course**   
-> ⚫ **Quadruped Robot Development**   
+> ⚫ G - **Self-Driving Specialist Course**   
+> ⚫ P - **Quadruped Robot Development**   
 
 ### 👀 Who wants to know more about me, click it!
 

@@ -21,7 +21,7 @@
 
 <div align=center>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harry1324354690@gmail.com)](mailto:harry1324354690@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=harry1324354690@gmail.com)
 </div>
 
 ---

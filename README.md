@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=190&section=header&text=Hello%20World&fontSize=65&animation=fadeIn&fontAlignY=30&desc=Hi,%20This%20is%20@seonghun00👋&descSize=16&descAlignY=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header&text=Hi,%20This%20is%20@seonghun00👋&fontSize=30&animation=fadeIn&fontAlignY=30/>
 </p>
 
 <!--
@@ -12,6 +12,7 @@
 6. fontAlignY=30 : 글자의 상하(Y축) 위치를 조절. 작을수록 위로, 클수록 아래로 이동.
 7. desc : Description(설명글)의 약자. 큰 제목 아래에 들어가는 작고 자세한 문구.
 8. </p> : 위에서 열었던 <p> 태그를 닫아주는 기호. 여기까지 한 문단이다 라고 컴퓨터에게 알려주는 역할.
+type=waving&color=auto&height=190&section=header&text=Hello%20World&fontSize=65&animation=fadeIn&fontAlignY=30&desc=Hi,%20This%20is%20@seonghun00👋&descSize=16&descAlignY=50"
 -->
 
 

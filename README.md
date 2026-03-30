@@ -1,7 +1,7 @@
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=185&section=header&text=Hello%20World&fontSize=75&animation=fadeIn&fontAlignY=30&desc=Hi,%20This%20is%20@seonghun00👋&descSize=16&descAlignY=51"/>
 </p>
-'''
+'
 ### 💡 Banner Code Dictionary
 <p ... > : Paragraph(문단)의 약자. 글이나 이미지를 하나의 덩어리로 묶어주는 역할.
 align='center' : Alignment(정렬)의 약자. 배너 이미지를 화면의 정중앙에 오게 함.
@@ -11,7 +11,7 @@ animation=fadeIn : 처음 들어왔을 때, 배너가 투명했다가 스르륵 
 fontAlignY=30 : 글자의 상하(Y축) 위치를 조절. 작을수록 위로, 클수록 아래로 이동.
 desc : Description(설명글)의 약자. 큰 제목 아래에 들어가는 작고 자세한 문구.
 </p> : 위에서 열었던 <p> 태그를 닫아주는 기호. 여기까지 한 문단이다 라고 컴퓨터에게 알려주는 역할.
-'''
+'
 
 ### 🌱 Education  
 > 🔵 **Autonomous Driving Bootcamp** (2026.3 ~ 2026.10 Expected.)   

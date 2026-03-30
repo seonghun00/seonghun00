@@ -6,7 +6,7 @@
 > 🔵 **Autonomous Driving Bootcamp** (2026.3 ~ 2026.10 Expected.)   
 > 🔵 **B.S in Robotics** from Yeongnam University, Gyeongsan, South Korea (2022.3 ~ 2026.2)   
 
-### :orange_book: Reasearch Interest  
+### :orange_book: Fields of Interest    
 > 🟠 **AMR(Autonomous Mobile Robot)** - Global/Local Path Planning, Obstacle Avoidance, Nav2  
 > 🟠 **SLAM** - LiDAR SLAM, Visual SLAM  
 > 🟠 **ADAS** - Perception Logic, Safety Systems, Sensor-based Control, Vehicle Dynamics  

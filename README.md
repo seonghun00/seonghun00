@@ -23,10 +23,10 @@
 
 
 ### :orange_book: Fields of Interest    
-> 🟠 **AMR(Autonomous Mobile Robot)** - Global/Local Path Planning, Obstacle Avoidance, Nav2  
 > 🟠 **SLAM** - LiDAR SLAM, Visual SLAM  
-> 🟠 **ADAS** - Perception Logic, Safety Systems, Sensor-based Control, Vehicle Dynamics  
 > 🟠 **Robotics Software Stack** - ROS2 Humble, Linux(Ubuntu), Python/C++  
+> 🟠 **ADAS** - Perception Logic, Safety Systems, Sensor-based Control, Vehicle Dynamics  
+> 🟠 **AMR(Autonomous Mobile Robot)** - Global/Local Path Planning, Obstacle Avoidance, Nav2  
 > 🟠 **Simulation** - Gazebo, RViz, Digital Twin, Virtual Environment Testing  
 
 

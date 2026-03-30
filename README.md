@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World&fontSize=75&animation=fadeIn&fontAlignY=30&desc=Hi,%20This%20is%20@Seonghun00👋&descSize=17&descAlignY=50&descAlign=63"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hello%20World&fontSize=70&animation=fadeIn&fontAlignY=30&desc=Hi,%20This%20is%20@Seonghun00👋&descSize=15&descAlignY=47&descAlign=62"/>
 </p>
 
 ### 🌱 Education  

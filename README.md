@@ -3,7 +3,7 @@
 </p>
 
 ### 🌱 Education  
-> 🔵 **Autonomous Driving Bootcamp** (2026.3 ~ Current)   
+> 🔵 **Autonomous Driving Bootcamp** (2026.3 ~ 2026.10 Expected.)   
 > 🔵 **B.S in Robotics** from Yeongnam University, Gyeongsan, South Korea (2022.3 ~ 2026.2)   
 
 ### :orange_book: Reasearch Interest  

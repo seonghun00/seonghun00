@@ -13,9 +13,9 @@
 > 🟠 **Robotics Software Stack** - ROS2 Humble, Linux(Ubuntu), Python/C++  
 > 🟠 **Simulation** - Gazebo, RViz, Digital Twin, Virtual Environment Testing  
 
-### 🚀 Goals & Projects
-> ⚫ G - **Self-Driving Specialist Course**   
-> ⚫ P - **Quadruped Robot Development**   
+### 🚀 Projects
+> ⚫ **Quadruped Robot Patrol System** - Waypoint-based autonomous patrol, Thermal anomaly detection, Alert transmission to Control Center, Auto-return system.  
+> ⚫ **Real-time Gesture Recognition App** - Data-driven hand gesture classification, Rock-Paper-Scissors recognition on Android, Computer Vision & Mobile integration.  
 
 ### 👀 Who wants to know more about me, click it!
 

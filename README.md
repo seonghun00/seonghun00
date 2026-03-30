@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=header&fontSize=90)  
-
-### Hi, This is @Seonghun00! 👋
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World&fontSize=75&animation=fadeIn&fontAlignY=30&desc=Hi,%20This%20is%20@Seonghun00👋&descSize=17&descAlignY=50&descAlign=63"/>
+</p>
 
 ### 🌱 Education  
 > 🔵 **Autonomous Driving Bootcamp** (2026.3 ~ Current)   

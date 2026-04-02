@@ -45,7 +45,7 @@
 <div align=center>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=harry1324354690@gmail.com)
-[![Naver Blog Badge](https://img.shields.io/badge/Naver%20Blog-2DB400?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/seonghun-s)
+[![Naver Blog Badge](https://img.shields.io/badge/Blog-2DB400?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/seonghun-s)
 </div>
 
 ---

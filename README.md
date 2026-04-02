@@ -12,6 +12,7 @@
 6. fontAlignY=30 : 글자의 상하(Y축) 위치를 조절. 작을수록 위로, 클수록 아래로 이동.
 7. desc : Description(설명글)의 약자. 큰 제목 아래에 들어가는 작고 자세한 문구.
 8. </p> : 위에서 열었던 <p> 태그를 닫아주는 기호. 여기까지 한 문단이다 라고 컴퓨터에게 알려주는 역할.
+9. ### ~~ : 소제목
 -->
 
 
@@ -44,6 +45,7 @@
 <div align=center>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=harry1324354690@gmail.com)
+[![Naver Blog Badge](https://img.shields.io/badge/Naver%20Blog-2DB400?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/seonghun-s)
 </div>
 
 ---

@@ -48,6 +48,10 @@
 [![Naver Blog Badge](https://img.shields.io/badge/Blog-2DB400?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/seonghun-s)
 </div>
 
+<!--
+gmail로고와 naver로고를 불러오고, 글씨색깔, 글을 추가할 수 있음.
+-->
+
 ---
 
 <div align="center">

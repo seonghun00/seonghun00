@@ -44,7 +44,7 @@
 
 <div align=center>
 
-[![GitHub CV Badge](https://img.shields.io/badge/CV-181717?style=flat-square&logo=GitHub&logoColor=white)]([https://github.com/seonghun00/Seonghun_CV/](https://github.com/seonghun00/SeonghunBae_CV))
+[![GitHub CV Badge](https://img.shields.io/badge/CV-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/seonghun00/SeonghunBae_CV)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=harry1324354690@gmail.com)
 [![Naver Blog Badge](https://img.shields.io/badge/Blog-2DB400?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/seonghun-s)
 </div>

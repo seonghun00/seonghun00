@@ -24,7 +24,7 @@
 
 
 ### 🛠️ Learning & Tech Stack
-> 🟠 **Environments** : Ubuntu 22.04 LTS, WSL2, Docker, Docker Compose, Anaconda3 기반의 표준화된 개발 환경 운용.  
+> 🟠 **Environments** : Ubuntu 22.04, WSL2, Docker, Docker Compose, Anaconda3 기반의 표준화된 개발 환경 운용.  
 > 🟠 **Robotics** : ROS2 Humble, SLAM, Nav2 스택을 활용한 AMR(Autonomous Mobile Robot) 제어 및 자율주행 알고리즘 구현.  
 > 🟠 **Tools & Vision** : OpenCV 기반 실시간 인지 시스템 개발, Gazebo/MuJoCo 시뮬레이션 검증, Git 기반의 버전 관리.
 
@@ -32,7 +32,7 @@
 
 ### 🚀 Projects
 > ⚫ **Quadruped Robot Patrol System** - Waypoint-based autonomous patrol, Thermal anomaly detection, Alert transmission to Control Center, Auto-return system.  
-> ⚫ **Real-time Gesture Recognition App** - Data-driven hand gesture classification, Rock-Paper-Scissors recognition on Android, Computer Vision & Mobile integration.  
+> ⚫ **Real-time Gesture Recognition App** - Google MediaPipe Framework, Data-driven hand gesture classification, Rock-Paper-Scissors recognition on Android, Computer Vision & Mobile integration.  
 
 
 

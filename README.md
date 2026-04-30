@@ -23,12 +23,10 @@
 
 
 
-### :orange_book: Fields of Interest    
-> 🟠 **SLAM** - LiDAR SLAM, Visual SLAM  
-> 🟠 **Robotics Software Stack** - ROS2 Humble, Linux(Ubuntu), Python/C++  
-> 🟠 **ADAS** - Perception Logic, Safety Systems, Sensor-based Control, Vehicle Dynamics  
-> 🟠 **AMR(Autonomous Mobile Robot)** - Global/Local Path Planning, Obstacle Avoidance, Nav2  
-> 🟠 **Simulation** - Gazebo, RViz, Digital Twin, Virtual Environment Testing  
+### 🛠️ Learning & Tech Stack
+> 🟠 **Environments** : Ubuntu 22.04 LTS, WSL2, Docker, Docker Compose, Anaconda3 기반의 표준화된 개발 환경 운용.  
+> 🟠 **Robotics** : ROS2 Humble, SLAM, Nav2 스택을 활용한 AMR(Autonomous Mobile Robot) 제어 및 자율주행 알고리즘 구현.  
+> 🟠 **Tools & Vision** : OpenCV 기반 실시간 인지 시스템 개발, Gazebo/MuJoCo 시뮬레이션 검증, Git 기반의 전략적 버전 관리.
 
 
 

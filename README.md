@@ -26,7 +26,7 @@
 ### 🛠️ Learning & Tech Stack
 > 🟠 **Environments** : Ubuntu 22.04 LTS, WSL2, Docker, Docker Compose, Anaconda3 기반의 표준화된 개발 환경 운용.  
 > 🟠 **Robotics** : ROS2 Humble, SLAM, Nav2 스택을 활용한 AMR(Autonomous Mobile Robot) 제어 및 자율주행 알고리즘 구현.  
-> 🟠 **Tools & Vision** : OpenCV 기반 실시간 인지 시스템 개발, Gazebo/MuJoCo 시뮬레이션 검증, Git 기반의 전략적 버전 관리.
+> 🟠 **Tools & Vision** : OpenCV 기반 실시간 인지 시스템 개발, Gazebo/MuJoCo 시뮬레이션 검증, Git 기반의 버전 관리.
 
 
 
@@ -45,6 +45,8 @@
 [![GitHub CV Badge](https://img.shields.io/badge/CV-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/seonghun00/SeonghunBae_CV)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=harry1324354690@gmail.com)
 [![Naver Blog Badge](https://img.shields.io/badge/Blog-2DB400?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/seonghun-s)
+[![GitHub Study Badge](https://img.shields.io/badge/Study--Log-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/seonghun00/Study-Log)
+
 </div>
 
 <!--

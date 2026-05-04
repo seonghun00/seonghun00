@@ -18,21 +18,20 @@
 
 
 ### 🌱 Education  
-> 🔵 **Autonomous Driving Bootcamp** (2026.3 ~ 2026.10 Expected.)   
-> 🔵 **B.S in Robotics** from Yeongnam University, Gyeongsan, South Korea (2022.3 ~ 2026.2)   
+> ● **Autonomous Driving Bootcamp** (2026.3 ~ 2026.10 Expected.)   
+> ● **B.S in Robotics** from Yeongnam University, Gyeongsan, South Korea (2022.3 ~ 2026.2)   
 
 
 
-### 🛠️ Learning & Tech Stack
-> 🟠 **Environments** : Ubuntu 22.04, WSL2, Docker, Docker Compose, Anaconda3 기반의 표준화된 개발 환경 운용.  
-> 🟠 **Robotics** : ROS2 Humble, SLAM, Nav2 스택을 활용한 AMR(Autonomous Mobile Robot) 제어 및 자율주행 알고리즘 구현.  
-> 🟠 **Tools & Vision** : OpenCV 기반 실시간 인지 시스템 개발, Gazebo/MuJoCo 시뮬레이션 검증, Git 기반의 버전 관리.
+### 🛠️ Learning & Tech Stack  
+> ● **Environments** : Ubuntu 22.04 (WSL2), Docker & Docker-Compose, Anaconda3  
+> ● **Robotics** : ROS2 Humble, SLAM/Nav2, AMR, Gazebo/MuJoCo Simulation  
+> ● **Perception** : OpenCV, YOLO, MediaPipe, Streamlit  
 
 
-
-### 🚀 Projects
-> ⚫ **Quadruped Robot Patrol System** - Waypoint-based autonomous patrol, Thermal anomaly detection, Alert transmission to Control Center, Auto-return system.  
-> ⚫ **Real-time Gesture Recognition App** - Google MediaPipe Framework, Data-driven hand gesture classification, Rock-Paper-Scissors recognition on Android, Computer Vision & Mobile integration.  
+### 🚀 Projects 
+> ● **Quadruped Robot Patrol System** - Waypoint-based autonomous patrol, Thermal anomaly detection, Alert transmission to Control Center, Auto-return system.  
+> ● **Real-time Gesture Recognition App** - Google MediaPipe Framework, Data-driven hand gesture classification, Rock-Paper-Scissors recognition on Android, Computer Vision & Mobile integration.  
 
 
 
@@ -42,10 +41,10 @@
 
 <div align=center>
 
-[![GitHub CV Badge](https://img.shields.io/badge/CV-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/seonghun00/SeonghunBae_CV)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=harry1324354690@gmail.com)
-[![Naver Blog Badge](https://img.shields.io/badge/Blog-2DB400?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/seonghun-s)
-[![GitHub Study Badge](https://img.shields.io/badge/Study--Log-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/seonghun00/Study-Log)
+[![GitHub CV Badge](https://img.shields.io/badge/CV-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/seonghun00/SeonghunBae_CV)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=harry1324354690@gmail.com)
+[![Naver Blog Badge](https://img.shields.io/badge/Blog-2DB400?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/seonghun-s)
+[![GitHub Study Badge](https://img.shields.io/badge/Study--Log-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/seonghun00/Study-Log)
 
 </div>
 

@@ -18,7 +18,7 @@
 
 
 ### 🌱 Education  
-> ● **Autonomous Driving Bootcamp** (2026.3 ~ 2026.10 Expected.)   
+> ● **AI & Future Mobility** (Robotics · ADAS) from Korea IT Academy (2026.3 ~ 2026.10 Expected.)   
 > ● **B.S in Robotics** from Yeongnam University, Gyeongsan, South Korea (2022.3 ~ 2026.2)   
 
 
@@ -34,19 +34,17 @@
 > ● **Quadruped Robot Patrol System** - Waypoint-based autonomous patrol, Thermal anomaly detection, Alert transmission to Control Center, Auto-return system.  
 > ● **Real-time Gesture Recognition App** - Google MediaPipe Framework, Data-driven hand gesture classification, Rock-Paper-Scissors recognition on Android, Computer Vision & Mobile integration.  
 
+<h3>👀 Who wants to know more about me, click it!</h3>
 
-
-### 👀 Who wants to know more about me, click it!
-
-
-
-<div align=center>
-
-[![GitHub CV Badge](https://img.shields.io/badge/CV-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/seonghun00/SeonghunBae_CV)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=harry1324354690@gmail.com)
-[![Naver Blog Badge](https://img.shields.io/badge/Blog-2DB400?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/seonghun-s)
-[![GitHub Study Badge](https://img.shields.io/badge/Study--Log-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/seonghun00/Study-Log)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" width="25" align="middle">
+    &nbsp;
+  <a href="https://github.com/seonghun00/SeonghunBae_CV"><img src="https://img.shields.io/badge/CV-181717?style=flat&logo=GitHub&logoColor=white" align="middle"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=harry1324354690@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white" align="middle"></a>
+  <a href="https://blog.naver.com/seonghun-s"><img src="https://img.shields.io/badge/Blog-2DB400?style=flat&logo=Naver&logoColor=white" align="middle"></a>
+  <a href="https://github.com/seonghun00/Study-Log"><img src="https://img.shields.io/badge/Study--Log-181717?style=flat&logo=GitHub&logoColor=white" align="middle"></a>
+    &nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" width="25" align="middle">
 </div>
 
 <!--

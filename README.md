@@ -27,7 +27,7 @@
 > ● **Environments** : Ubuntu 22.04 (WSL2), Docker & Docker-Compose, Anaconda3  
 > ● **Robotics** : ROS2 Humble, SLAM/Nav2, AMR, Gazebo/MuJoCo Simulation  
 > ● **Perception** : OpenCV, YOLO, MediaPipe, Streamlit  
-> ● **etc** : Smart Home, Life Automation (Automated Ledger, Morning Briefing Bot)
+> ● **etc** : Smart Home, Life Automation ([Automated Ledger](https://github.com/seonghun00/Automated-Ledger), [Morning Briefing Bot](https://github.com/seonghun00/Morning-Briefing-Bot))
 
 
 ### 🚀 Projects 

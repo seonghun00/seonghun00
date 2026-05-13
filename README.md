@@ -19,9 +19,8 @@
 
 ### 🌱 Education  
 > ● **AI & Future Mobility** (Robotics · ADAS) from Korea IT Academy (2026.3 ~ 2026.10 Expected.)   
-> ● **B.S in Robotics** from Yeongnam University, Gyeongsan, South Korea (2022.3 ~ 2026.2)   
-
-
+> ● **B.S in Robotics** from Yeongnam University, Gyeongsan, South Korea (2022.3 ~ 2026.2)  
+> <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/UWJnSTFEQW44TUhkZ01Oa1ZSYUViZz09"><img src="https://github.com/user-attachments/assets/ad66ace2-26a4-4e19-827d-0927c74df332" width="25" alt="ABEEK Robotics Professional Badge" align="center"></a> <sub>*(ABEEK: Robotics Professional - Advanced Robotics & Mechanical Engineering Program at YU)*</sub>
 
 ### 🛠️ Learning & Tech Stack  
 > ● **Environments** : Ubuntu 22.04 (WSL2), Docker & Docker-Compose, Anaconda3  

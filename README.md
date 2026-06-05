@@ -30,8 +30,8 @@
 
 
 ### 🚀 Projects 
-> ● **Quadruped Robot Patrol System** - Waypoint-based autonomous patrol, Thermal anomaly detection, Alert transmission to Control Center, Auto-return system.  
-> ● **Real-time Gesture Recognition App** - Google MediaPipe Framework, Data-driven hand gesture classification, Rock-Paper-Scissors recognition on Android, Computer Vision & Mobile integration.  
+> ● **[Quadruped Robot Patrol System](https://github.com/seonghun00/Faster-LIO-Lite3-Outdoor)** - Waypoint-based autonomous patrol, Thermal anomaly detection, Alert transmission to Control Center, Auto-return system.  
+> ● **[Real-time Gesture Recognition App](https://github.com/seonghun00/Hand-Gesture_Recognition)** - Google MediaPipe Framework, Data-driven hand gesture classification, Rock-Paper-Scissors recognition on Android, Computer Vision & Mobile integration.  
 
 <h3>👀 Who wants to know more about me, click it!</h3>
 

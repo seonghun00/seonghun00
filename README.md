@@ -24,8 +24,8 @@
 
 ### 🛠️ Learning & Tech Stack  
 > ● **Environments** : Ubuntu 22.04 (WSL2), Docker, Anaconda3  
-> ● **Robotics** : ROS2 Humble, SLAM/Nav2, AMR, Gazebo/MuJoCo
-> ● **Perception** : OpenCV, YOLO, MediaPipe
+> ● **Robotics** : ROS2 Humble, SLAM/Nav2, AMR, Gazebo/MuJoCo  
+> ● **Perception** : OpenCV, YOLO, MediaPipe  
 > ● **etc** : Smart Home, Life Automation ([Automated Ledger](https://github.com/seonghun00/Automated-Ledger), [Morning Briefing Bot](https://github.com/seonghun00/Morning-Briefing-Bot))
 
 

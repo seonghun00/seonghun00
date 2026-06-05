@@ -23,9 +23,9 @@
 > <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/UWJnSTFEQW44TUhkZ01Oa1ZSYUViZz09"><img src="https://github.com/user-attachments/assets/ad66ace2-26a4-4e19-827d-0927c74df332" width="25" alt="ABEEK Robotics Professional Badge" align="center"></a> <sub>*(ABEEK : Robotics Professional - Advanced Robotics & Mechanical Engineering Program at YU)*</sub>
 
 ### 🛠️ Learning & Tech Stack  
-> ● **Environments** : Ubuntu 22.04 (WSL2), Docker & Docker-Compose, Anaconda3  
-> ● **Robotics** : ROS2 Humble, SLAM/Nav2, AMR, Gazebo/MuJoCo Simulation  
-> ● **Perception** : OpenCV, YOLO, MediaPipe, Streamlit  
+> ● **Environments** : Ubuntu 22.04 (WSL2), Docker, Anaconda3  
+> ● **Robotics** : ROS2 Humble, SLAM/Nav2, AMR, Gazebo/MuJoCo
+> ● **Perception** : OpenCV, YOLO, MediaPipe
 > ● **etc** : Smart Home, Life Automation ([Automated Ledger](https://github.com/seonghun00/Automated-Ledger), [Morning Briefing Bot](https://github.com/seonghun00/Morning-Briefing-Bot))
 
 

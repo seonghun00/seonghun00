@@ -38,7 +38,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" width="20" align="middle">
     &nbsp;
-  <a href="https://github.com/seonghun00/SeonghunBae_CV"><img src="https://img.shields.io/badge/CV-181717?style=flat&logo=GitHub&logoColor=white" align="middle"></a>
+  <a href="https://github.com/seonghun00/SeonghunBae_CV/SeonghunBae_CV.pdf"><img src="https://img.shields.io/badge/CV-181717?style=flat&logo=GitHub&logoColor=white" align="middle"></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=harry1324354690@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white" align="middle"></a>
   <a href="https://blog.naver.com/seonghun-s"><img src="https://img.shields.io/badge/Blog-2DB400?style=flat&logo=Naver&logoColor=white" align="middle"></a>
   <a href="https://github.com/seonghun00/Study-Log"><img src="https://img.shields.io/badge/Study--Log-181717?style=flat&logo=GitHub&logoColor=white" align="middle"></a>

@@ -30,9 +30,9 @@
 
 
 ### 🚀 Projects 
-> ● **[AMR simple restaurant Simulation](https://github.com/seonghun00/Gazebo-Simulation)** *(In Progress 🟡)* - Docker-based integrated environment, Mobile robot URDF modeling, 2D LiDAR & Differential drive configuration, Custom restaurant simulation world.   
-> ● **[Quadruped Robot Patrol System](https://github.com/seonghun00/Faster-LIO-Lite3-Outdoor)** - Waypoint-based autonomous patrol, Thermal anomaly detection, Alert transmission to Control Center, Auto-return system.  
-> ● **[Real-time Gesture Recognition App](https://github.com/seonghun00/Hand-Gesture_Recognition)** - Google MediaPipe Framework, Data-driven hand gesture classification, Rock-Paper-Scissors recognition on Android, Computer Vision & Mobile integration.  
+> ● **[AMR simple restaurant Simulation](https://github.com/seonghun00/Gazebo-Simulation)** (In Progress 🟡) - Docker-based Gazebo environment, Mobile robot URDF modeling, 2D LiDAR & Differential drive configuration, Custom restaurant simulation world.   
+> ● [Quadruped Robot Mapping System](https://github.com/seonghun00/Faster-LIO-Lite3-Outdoor) - Outdoor 3D mapping pipeline based on Faster-LIO. Optimized computational efficiency and stability by tuning Voxel Grid and applying Z-axis point cloud filtering in ROS2.   
+> ● [Real-time Gesture Recognition Project](https://github.com/seonghun00/Hand-Gesture_Recognition) - Google MediaPipe based computer vision. Extracted 21 hand landmarks to train a custom model for real-time rock-paper-scissors classification.
 
 <h3>👀 Who wants to know more about me, click it!</h3>
 

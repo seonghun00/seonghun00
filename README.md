@@ -24,13 +24,13 @@
 
 ### 🛠️ Learning & Tech Stack  
 > ● **Environments** : Ubuntu 22.04 (WSL2), Docker, Anaconda3  
-> ● **Robotics** : ROS2 Humble, SLAM/Nav2, AMR, Gazebo/MuJoCo  
-> ● **Perception** : OpenCV, YOLO, MediaPipe  
+> ● **Robotics** : ROS2 Humble, SLAM, Nav2, Gazebo/MuJoCo  
+> ● **Perception** : OpenCV, YOLO   
 > ● **etc** : Smart Home, Life Automation ([Automated Ledger](https://github.com/seonghun00/Automated-Ledger), [Morning Briefing Bot](https://github.com/seonghun00/Morning-Briefing-Bot))
 
 
 ### 🚀 Projects 
-> ● **[AMR simple restaurant Simulation](https://github.com/seonghun00/Gazebo-Simulation)** (In Progress 🟡) - Docker-based Gazebo environment, Mobile robot URDF modeling, 2D LiDAR & Differential drive configuration, Custom restaurant simulation world.   
+> ● [AMR restaurant Gazebo Simulation](https://github.com/seonghun00/Gazebo-Simulation) (In Progress 🟡) - Docker-based Gazebo environment, Mobile robot URDF modeling, 2D LiDAR & Differential drive configuration, Custom restaurant simulation world.   
 > ● [Quadruped Robot Mapping System](https://github.com/seonghun00/Faster-LIO-Lite3-Outdoor) - Outdoor 3D mapping pipeline based on Faster-LIO. Optimized computational efficiency and stability by tuning Voxel Grid and applying Z-axis point cloud filtering in ROS2.   
 > ● [Real-time Gesture Recognition Project](https://github.com/seonghun00/Hand-Gesture_Recognition) - Google MediaPipe based computer vision. Extracted 21 hand landmarks to train a custom model for real-time rock-paper-scissors classification.
 

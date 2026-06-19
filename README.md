@@ -54,7 +54,7 @@ gmail로고와 naver로고를 불러오고, 글씨색깔, 글을 추가할 수 �
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seonghun00&custom_title=seonghun00's%20Activity%20Graph&theme=react-dark&bg_color=0d1117&hide_border=true" alt="활동 그래프" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seonghun00&custom_title=seonghun00's%20Activity%20Graph&theme=react-dark&bg_color=00000000&hide_border=true" alt="활동 그래프" />
 </p>
 
 

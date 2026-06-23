@@ -32,7 +32,7 @@
 ### 🚀 Projects 
 > ● [AMR restaurant Gazebo Simulation](https://github.com/seonghun00/Gazebo-Simulation)  [Active 🟢] &nbsp; -  Docker-based Gazebo environment, Mobile robot URDF modeling, 2D LiDAR & Differential drive configuration, Custom restaurant simulation world.   
 > ● [Quadruped Robot Mapping System](https://github.com/seonghun00/Faster-LIO-Lite3-Outdoor) &nbsp; - Outdoor 3D mapping pipeline based on Faster-LIO. Optimized computational efficiency and stability by tuning Voxel Grid and applying Z-axis point cloud filtering in ROS2.   
-> ● [Real-time Gesture Recognition Project](https://github.com/seonghun00/Hand-Gesture_Recognition) &nbsp; - Google MediaPipe based computer vision. Extracted 21 hand landmarks to train a custom model for real-time rock-paper-scissors classification.
+> ● [Real-time Hand Gesture Recognition](https://github.com/seonghun00/Hand-Gesture_Recognition) &nbsp; - Google MediaPipe based computer vision. Extracted 21 hand landmarks to train a custom model for real-time rock-paper-scissors classification.
 
 <h3>👀 Who wants to know more about me, click it!</h3>
 

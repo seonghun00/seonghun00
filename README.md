@@ -30,11 +30,12 @@
 
 
 ### 🚀 Projects 
+> ● [Vision-Based Driver Monitoring System](https://github.com/seonghun00/Age-Gender) [Active 🟢] &nbsp; - AI-based in-cabin monitoring system. Estimates occupant's age and gender from facial analysis and supports personalized voice services and emergency e-Call applications.   
 > ● [AMR restaurant Gazebo Simulation](https://github.com/seonghun00/Gazebo-Simulation)  [Active 🟢] &nbsp; -  Docker-based Gazebo environment, Mobile robot URDF modeling, 2D LiDAR & Differential drive configuration, Custom restaurant simulation world.   
-> ● [Quadruped Robot Mapping System](https://github.com/seonghun00/Faster-LIO-Lite3-Outdoor) &nbsp; - Outdoor 3D mapping pipeline based on Faster-LIO. Optimized computational efficiency and stability by tuning Voxel Grid and applying Z-axis point cloud filtering in ROS2.   
-> ● [Real-time Hand Gesture Recognition](https://github.com/seonghun00/Hand-Gesture_Recognition) &nbsp; - Google MediaPipe based computer vision. Extracted 21 hand landmarks to train a custom model for real-time rock-paper-scissors classification.
+> ● [Quadruped Robot Mapping System](https://github.com/seonghun00/Faster-LIO-Lite3-Outdoor) &nbsp; - Outdoor 3D mapping pipeline based on Faster-LIO. Optimized computational efficiency and stability by tuning Voxel Grid and applying Z-axis point cloud filtering in ROS2.
 
-<h3>👀 Who wants to know more about me, click it!</h3>
+
+### 👀 Who wants to know more about me, click it!
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" width="20" align="middle">
@@ -47,11 +48,6 @@
     &nbsp; 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" width="20" align="middle">
 </div>
-
-
-<!--
-gmail로고와 naver로고를 불러오고, 글씨색깔, 글을 추가할 수 있음.
--->
 
 ---
 

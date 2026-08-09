@@ -15,8 +15,6 @@
 9. ### ~~ : 소제목
 -->
 
-
-
 ### 🌱 Education  
 > ● **AI & Future Mobility** (Robotics · ADAS) from Korea IT Academy (2026.3 ~ 2026.10 Expected.)   
 > ● **B.S in Robotics** from Yeongnam University, Gyeongsan, South Korea (2022.3 ~ 2026.2)  

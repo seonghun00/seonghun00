@@ -27,9 +27,9 @@
 > ● **etc** : Smart Home, Life Automation ([Automated Ledger](https://github.com/seonghun00/Automated-Ledger), [Morning Briefing Bot](https://github.com/seonghun00/Morning-Briefing-Bot))
 
 
-### 🚀 Projects 
-> ● [Vision-Based Occupant Monitoring System](https://github.com/seonghun00/Age-Gender) [Active 🟢] &nbsp; - AI-based in-cabin monitoring system. Estimates occupant's age and gender from facial analysis and supports personalized voice services and emergency e-Call applications.   
+### 🚀 Projects   
 > ● [AMR restaurant Gazebo Simulation](https://github.com/seonghun00/Gazebo-Simulation)  [Active 🟢] &nbsp; -  Docker-based Gazebo environment, Mobile robot URDF modeling, 2D LiDAR & Differential drive configuration, Custom restaurant simulation world.   
+> ● [Vision-Based Occupant Monitoring System](https://github.com/seonghun00/Age-Gender) &nbsp; - AI-based in-cabin monitoring system. Estimates occupant's age and gender from facial analysis and supports personalized voice services and emergency e-Call applications.   
 > ● [Quadruped Robot Mapping System](https://github.com/seonghun00/Faster-LIO-Lite3-Outdoor) &nbsp; - Outdoor 3D mapping pipeline based on Faster-LIO. Optimized computational efficiency and stability by tuning Voxel Grid and applying Z-axis point cloud filtering in ROS2.
 
 
